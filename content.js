@@ -2,7 +2,7 @@
 window.KAYLYN_CONTENT = {
   name: 'Kaylyn', nickname: 'KayKay',
   // Example: '2026-02-14T00:00:00-05:00' (replace with the actual year)
-  anniversaryStart: '',
+  anniversaryStart: '2026-02-14T00:00:00-05:00',
   musicSrc: '', // Example: 'assets/our-song.mp3' (only use audio you have rights to)
   reasons: [
     ['your smile', 'the kind of smile that makes even the most ordinary moment feel beautiful.'],
