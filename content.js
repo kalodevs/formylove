@@ -21,5 +21,5 @@ window.KAYLYN_CONTENT = {
     'i hope you always know that you deserve to be appreciated, listened to, celebrated, and loved for exactly who you are. you never have to be anyone else to be extraordinary.',
     'if there’s one thing i hope you never forget, it’s that you deserve to feel as beautiful, loved, and special as you truly are. and i hope i get to keep reminding you.'
   ],
-  starNotes: ['you make ordinary days feel special.', 'your smile deserves its own constellation.', 'there’s only one you, and that’s what makes you extraordinary.', 'you are my favorite little piece of the universe.']
+  starNotes: ['you make ordinary days feel special.', 'your smile deserves its own constellation.', 'there’s only one you, and that’s what makes you extraordinary.', 'you are my favorite little piece of the universe.', 'you make me the happiest man alive']
 };
